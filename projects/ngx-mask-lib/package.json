@@ -1,7 +1,7 @@
 {
-  "name": "ngx-mask",
+  "name": "ionic-ngx-mask",
   "version": "9.1.0",
-  "description": "awesome ngx mask",
+  "description": "awesome ngx mask (support ionic 5)",
   "keywords": [
     "ng2-mask",
     "ngx-mask",
@@ -12,20 +12,22 @@
     "angular2",
     "angular2-mask",
     "ng2mask",
-    "jsdaddy"
+    "jsdaddy",
+    "ionic-ngx-mask",
+    "ionic-5-ngx-mask"
   ],
   "license": "MIT",
   "author": "ngx-mask",
   "contributors": [
     "ngx-mask"
   ],
-  "homepage": "https://github.com/JsDaddy/ngx-mask",
+  "homepage": "https://github.com/Ans0n-Ti0/ngx-mask",
   "repository": {
     "type": "git",
-    "url": "git@github.com:JsDaddy/ngx-mask.git"
+    "url": "git@github.com:Ans0n-Ti0/ngx-mask.git"
   },
   "bugs": {
-    "url": "https://github.com/JsDaddy/ngx-mask/issues"
+    "url": "https://github.com/Ans0n-Ti0/ngx-mask/issues"
   },
   "main": "./bundles/ngx-mask.umd.js",
   "module": "./esm5/ngx-mask.js",
